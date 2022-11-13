@@ -1,0 +1,22 @@
+{	
+	"fonts": [
+        {
+            "aifont": "Barlow-Regular",
+            "family": "Barlow",
+            "weight": "350",
+            "style": ""
+        },
+                {
+            "aifont": "Barlow-MEdium",
+            "family": "Barlow",
+            "weight": "500",
+            "style": ""
+        },
+        {
+            "aifont": "Barlow-Bold",
+            "family": "Barlow",
+            "weight": "700",
+            "style": ""
+        },
+    ]
+}
